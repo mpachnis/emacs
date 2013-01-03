@@ -1,0 +1,12 @@
+BZR merge-modified list format 1
+file_id: pythonmodetests.sh-20110326142553-8np1ql7mfckg8d2a-1
+hash: 15e7ee6a96997c0d60f774ccaf8a707ebaa5d3b1
+
+file_id: 2@fb98634b-d22b-0410-a57a-e996bee27b70:trunk%2Fpython-mode:python-mode.el
+hash: 6d1574869512387f5b56a2c2c732b092c5c65765
+
+file_id: news-20111230084139-o8it5j28ww31gxky-1
+hash: 09d2fd6d2a988fd9c3e7b631b09219df8ab430d4
+
+file_id: pybugnumberedtests.e-20110315100757-nomgsp904nznon19-1
+hash: a12c719f9be257c5e737b015827c93a09e08ef44

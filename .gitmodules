@@ -1,0 +1,33 @@
+[submodule "vendor/jinja2-mode"]
+	path = vendor/jinja2-mode
+	url = https://github.com/paradoxxxzero/jinja2-mode.git
+[submodule "vendor/rails"]
+	path = vendor/rails
+	url = https://github.com/remvee/emacs-rails.git
+[submodule "vendor/rhtml-mode"]
+	path = vendor/rhtml-mode
+	url = https://github.com/eschulte/rhtml.git
+[submodule "vendor/pony-mode"]
+	path = vendor/pony-mode
+	url = https://github.com/davidmiller/pony-mode
+[submodule "vendor/scss-mode"]
+	path = vendor/scss-mode
+	url = https://github.com/antonj/scss-mode.git
+[submodule "vendor/magit"]
+	path = vendor/magit
+	url = https://github.com/magit/magit.git
+[submodule "vendor/yaml-mode"]
+	path = vendor/yaml-mode
+	url = https://github.com/yoshiki/yaml-mode.git
+[submodule "vendor/less-mode"]
+	path = vendor/less-mode
+	url = https://github.com/myfreeweb/less-mode.git
+[submodule "vendor/markdown-mode"]
+	path = vendor/markdown-mode
+	url = git://jblevins.org/git/markdown-mode.git
+[submodule "vendor/puppet-mode"]
+	path = vendor/puppet-mode
+	url = https://github.com/puppetlabs/puppet-syntax-emacs.git
+[submodule "vendor/autopair"]
+	path = vendor/autopair
+	url = https://github.com/capitaomorte/autopair.git
